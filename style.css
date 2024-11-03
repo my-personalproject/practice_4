@@ -3,6 +3,11 @@ html {
   height: 100vh;
 }
 
+header {
+  position: fixed;
+  height: 80px;
+}
+
 p {
   color:red;
 }
