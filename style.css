@@ -8,7 +8,7 @@ header {
   top: 0;
   height: 80px;
   width: 100%;
-  background-image: url('image_1.jpg');
+  background-image: url(image_1.jpg);
 }
 
 p {
@@ -19,7 +19,6 @@ div.all {
   display: flex;
   width: 100%;
   margin: 80px 0 0 0;
-  margin: 80px;
 }
 
 div.left {
