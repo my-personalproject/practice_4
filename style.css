@@ -1,8 +1,32 @@
+html {
+  width: 100vw;
+  height: 100vh;
+}
+
 p {
   color:red;
 }
 
+div.all {
+  display: :flex;
+  width: 100&;
+}
+
+div.left {
+  width: 100px;
+}
+
+div.form {
+  background-color: antiquewhite;
+  padding: 20px 10px 20px 10px;
+}
+
 div.main {
-  background-color: lightgreen;
+  background-color: white;
   border-radius: 30px;
+  padding: 25px;
+}
+
+div.right {
+  width: 100px;
 }
