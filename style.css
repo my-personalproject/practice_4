@@ -8,8 +8,8 @@ p {
 }
 
 div.all {
-  display: :flex;
-  width: 100&;
+  display: flex;
+  width: 100%;
 }
 
 div.left {
