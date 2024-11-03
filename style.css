@@ -13,20 +13,24 @@ div.all {
 }
 
 div.left {
-  width: 100px;
+  width: 20%;
+  background-color: antiquewhite;
 }
 
 div.form {
   background-color: antiquewhite;
-  padding: 20px 10px 20px 10px;
+  width: 100%;
 }
 
 div.main {
   background-color: white;
   border-radius: 30px;
+  margin:20px 10px 20px 10px ;
   padding: 25px;
+  width: 100&;
 }
 
 div.right {
-  width: 100px;
+  width: 20%;
+  background-color: antiquewhite;
 }
